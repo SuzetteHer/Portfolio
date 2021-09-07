@@ -44,3 +44,15 @@ footer{
   color: whitesmoke;
   font-size: 9px;
 }
+.home__social{
+  display: grid;
+  row-gap: 1rem ;
+}
+.home__social-icon{
+  font-size: 1.25rem;
+  color: black;
+}
+
+.home__social-icon:hover{
+  color: black;
+}
