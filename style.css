@@ -25,14 +25,17 @@ h4
   width: 50%;
 }
 body{
-  background-color: pink;
+  background-color: white;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
 }
 .header {
-  padding: 14px;
+  padding: 15px;
   text-align: center;
-  background:  #0e0202;
-  color: whitesmoke;
-  font-size: 10px;
+  background:  black;
+  color: white;
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;
 }
 footer{
   padding: 10px;
